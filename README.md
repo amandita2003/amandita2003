@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amandita2003
-- 👀 I’m interested in learn new programming languages, and everything that has to do web
+- 👀 I’m interested in learn new programming languages, and everything that has related to web
 - 🌱 I’m currently learning web programming in java, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: send me a dm on instagram (@amanditaidalgo), an e-mail (amandalavigne2@gmail.com) or add me on discord (justaninchident)
